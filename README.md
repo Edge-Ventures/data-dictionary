@@ -1,1 +1,1 @@
-<h1>Edge Lex - AI Driven Data Dictionary and Business Glossary </h1>
+<h1>LexSyn - AI Driven Data Dictionary and Business Glossary </h1>
