@@ -1,1 +1,1 @@
-<h1>LexSyn - AI Driven Data Dictionary and Business Glossary </h1>
+<h1>DataDictionary - AI Driven Data Dictionary and Business Glossary </h1>
